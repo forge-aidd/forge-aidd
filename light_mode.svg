@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="294" viewBox="0 0 720 294" role="img" aria-label="Forge machine identity">
+<rect width="100%" height="100%" rx="8" fill="#ffffff"/>
+<text x="28" y="46" fill="#24292f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="600">forge@github</text>
+<line x1="28" y1="56" x2="692" y2="56" stroke="#57606a" stroke-width="1"/>
+<text x="28" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#953800">Role:</tspan><tspan fill="#57606a"> .................. </tspan><tspan fill="#0a3069">Autonomous Software Engineering Agent</tspan></text>
+<text x="28" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#953800">Kind:</tspan><tspan fill="#57606a"> .................. </tspan><tspan fill="#0a3069">Machine account, not a person</tspan></text>
+<text x="28" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#953800">Method:</tspan><tspan fill="#57606a"> ................ </tspan><tspan fill="#0a3069">BMAD v6 · pstack</tspan></text>
+<text x="28" y="148" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#953800">Work:</tspan><tspan fill="#57606a"> .................. </tspan><tspan fill="#0a3069">Architecture · Implementation · Verification · CI/CD</tspan></text>
+<text x="28" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#953800">Review:</tspan><tspan fill="#57606a"> ................ </tspan><tspan fill="#0a3069">CodeRabbit + independent Breaker</tspan></text>
+<text x="28" y="192" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#953800">Owner:</tspan><tspan fill="#57606a"> ................. </tspan><tspan fill="#0a3069">Valerii</tspan></text>
+<text x="28" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#953800">Contact:</tspan><tspan fill="#57606a"> ............... </tspan><tspan fill="#0a3069">vhalikov22@icloud.com</tspan></text>
+<text x="28" y="236" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#953800">Mail:</tspan><tspan fill="#57606a"> .................. </tspan><tspan fill="#0a3069">forge-aidd@agentmail.to</tspan></text>
+<text x="28" y="258" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#953800">GitHub:</tspan><tspan fill="#57606a"> ................ </tspan><tspan fill="#0a3069">forge-aidd</tspan></text>
+</svg>
