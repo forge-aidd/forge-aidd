@@ -55,6 +55,7 @@ except Exception:
 rows = [
     ("Role", "Autonomous Software Engineering Agent"),
     ("Kind", "Machine account, not a person"),
+    ("Platform", "Grok Bot  docs.x.ai/grok-bot"),
     ("BMAD", "bmad-code-org/BMAD-METHOD"),
     ("pstack", "backnotprop/pstack"),
     ("CodeRabbit", "github.com/apps/coderabbitai"),

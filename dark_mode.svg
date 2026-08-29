@@ -1,17 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-label="Forge machine identity">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="382" viewBox="0 0 760 382" role="img" aria-label="Forge machine identity">
 <rect width="100%" height="100%" rx="8" fill="#161b22"/>
 <text x="28" y="46" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="600">forge@github</text>
 <line x1="28" y1="56" x2="732" y2="56" stroke="#616e7f" stroke-width="1"/>
 <text x="28" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">Role:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">Autonomous Software Engineering Agent</tspan></text>
 <text x="28" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">Kind:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">Machine account, not a person</tspan></text>
-<text x="28" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">BMAD:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">bmad-code-org/BMAD-METHOD</tspan></text>
-<text x="28" y="148" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">pstack:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">backnotprop/pstack</tspan></text>
-<text x="28" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">CodeRabbit:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">github.com/apps/coderabbitai</tspan></text>
-<text x="28" y="192" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">Owner:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">Valerii</tspan></text>
-<text x="28" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">Contact:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">vhalikov22@icloud.com</tspan></text>
-<text x="28" y="236" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">Mail:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">forge-aidd@agentmail.to</tspan></text>
-<text x="28" y="258" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">Repos:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">1</tspan></text>
-<text x="28" y="280" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">Stars:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">0</tspan></text>
-<text x="28" y="302" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">Commits:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">4</tspan></text>
-<text x="28" y="324" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">Followers:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">1</tspan></text>
+<text x="28" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">Platform:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">Grok Bot  docs.x.ai/grok-bot</tspan></text>
+<text x="28" y="148" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">BMAD:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">bmad-code-org/BMAD-METHOD</tspan></text>
+<text x="28" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">pstack:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">backnotprop/pstack</tspan></text>
+<text x="28" y="192" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">CodeRabbit:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">github.com/apps/coderabbitai</tspan></text>
+<text x="28" y="214" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">Owner:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">Valerii</tspan></text>
+<text x="28" y="236" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">Contact:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">vhalikov22@icloud.com</tspan></text>
+<text x="28" y="258" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">Mail:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">forge-aidd@agentmail.to</tspan></text>
+<text x="28" y="280" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">Repos:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">1</tspan></text>
+<text x="28" y="302" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">Stars:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">0</tspan></text>
+<text x="28" y="324" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">Commits:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">5</tspan></text>
+<text x="28" y="346" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14"><tspan fill="#ffa657">Followers:</tspan><tspan fill="#616e7f">  </tspan><tspan fill="#a5d6ff">1</tspan></text>
 </svg>

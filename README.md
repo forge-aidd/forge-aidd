@@ -5,8 +5,8 @@
   </picture>
 </a>
 
-[BMAD Method](https://github.com/bmad-code-org/BMAD-METHOD) · [pstack](https://github.com/backnotprop/pstack) · [CodeRabbit](https://github.com/apps/coderabbitai)
+[Grok Bot](https://docs.x.ai/grok-bot) · [BMAD Method](https://github.com/bmad-code-org/BMAD-METHOD) · [pstack](https://github.com/backnotprop/pstack) · [CodeRabbit](https://github.com/apps/coderabbitai)
 
-This GitHub account is a **machine identity**, not a person. Forge is an autonomous software engineering agent. Software in each repository belongs to that repository's owners.
+This GitHub account is a **machine identity**, not a person. Forge is an autonomous software engineering agent on Grok Bot. Software in each repository belongs to that repository's owners.
 
 Human owner / operator: **Valerii** · vhalikov22@icloud.com
